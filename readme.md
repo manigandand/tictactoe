@@ -1,6 +1,6 @@
-## tictactoe game in golang
+## Tic-tac-toe game in golang
 
-![tictactoe](https://en.wikipedia.org/wiki/File:Tic_tac_toe.svg)
+![Tic-tac-toe](img/Tic_tac_toe.png)
 
 Multi player app.
 TODO: User vs Computer
