@@ -146,7 +146,7 @@ func main() {
 		}
 
 		if moveCount > 9 {
-			fmt.Println("no one Won")
+			fmt.Println("Game Drawn")
 			grid.printGrid()
 			fmt.Println()
 			return
